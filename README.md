@@ -30,5 +30,5 @@ Aplicación para gestionar partidas de rol, diseñada específicamente para un a
 
 
 ## 📫 Conéctame
-- [Email](nestorn1515@gmail.com)
+- [Email](mailto:nestorn1515@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nestor-de-frutos-alonso/)
