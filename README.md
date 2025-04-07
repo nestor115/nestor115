@@ -24,8 +24,7 @@ Aplicación móvil para gestionar colecciones de juegos de mesa. Permite añadir
 **Tecnologías utilizadas**: Java, SQLite, Android Studio
 
 ### [Aperion](https://github.com/nestor115/aperion)
-Aplicación para gestionar partidas de rol, diseñada específicamente para un amigo.
-
+Aplicación para gestionar partidas de rol, diseñada específicamente para un amigo. Aperion aún se encuentra en desarrollo y sigue recibiendo actualizaciones y mejoras.
 **Tecnologías utilizadas**: React y Spring
 
 
